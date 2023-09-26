@@ -27,17 +27,17 @@ Install project dependencies:
 
 bash
 Copy code
-npm install
-# or
-yarn install
+#npm install
+or
+#yarn install
 Running the App
 After completing the installation, you can run the app with the following command:
 
 bash
 Copy code
-npm start
-# or
-yarn start
+#npm start
+or
+#yarn start
 This will start the development server, and you can access the app in your web browser at http://localhost:3000.
 
 How to Use
@@ -65,7 +65,6 @@ The app includes automated tests to ensure its functionality. You can run these 
 bash
 Copy code
 npm test
-# or
 yarn test
 Built With
 React - JavaScript library for building user interfaces
